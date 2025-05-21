@@ -1,4 +1,4 @@
-*COMI-LINGUA** (**CO**de-**MI**xing and **LING**uistic Insights on Natural Hinglish **U**sage and **A**nnotation) is a large-scale, expert-annotated dataset for Hindi-English code-mixed text. It supports multiple foundational NLP tasks and is designed to benchmark code-mixed and multilingual models.
+**COMI-LINGUA** (**CO**de-**MI**xing and **LING**uistic Insights on Natural Hinglish **U**sage and **A**nnotation) is a large-scale, expert-annotated dataset for Hindi-English code-mixed text. It supports multiple foundational NLP tasks and is designed to benchmark code-mixed and multilingual models.
 
 ---
 
