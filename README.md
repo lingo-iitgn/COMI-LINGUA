@@ -40,7 +40,7 @@ Matrix Language: hi
 
 ### 3. Part-of-Speech Tagging (POS)
 
-Token-wise syntactic tags using the [CodeSwitch library](https://github.com/sagorbrur/codeswitch), then refined by annotators.
+Token-wise part of speech tags using the [CodeSwitch library](https://github.com/sagorbrur/codeswitch), then refined by annotators.
 
 ```text
 Sentence:  भारत   द्वारा  बनाया  गया Unified Payments Interface  यानि   UPI    भारत   की    एक   बहुत  बड़ी   success  story  है    ।
@@ -51,7 +51,7 @@ POS tags: PROPN  ADP VERB VERB  PROPN   PROPN    PROPN    CONJ  PROPN  PROPN ADP
 
 ### 4. Named Entity Recognition (NER)
 
-Recognizes entities such as persons, places, organizations, and dates in Hinglish.
+Token-wise entitiy recognition such as persons, location, organizations, gpe, and date using the [CodeSwitch library](https://github.com/sagorbrur/codeswitch) then corrected by annotators.
 
 ```text
 Sentence: "मालूम हो कि पेरिस स्थित Financial Action Task Force, FATF ने जून 2018 में पाकिस्तान को ग्रे लिस्ट में रखा था।"
