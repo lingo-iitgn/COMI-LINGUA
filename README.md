@@ -2,14 +2,14 @@
 
 ---
 
-## 🧾 Dataset Summary
+## 📝 Dataset Summary
 
 - **Languages:** Hindi (hi), English (en)
 - **Tags:** `code-mixing`, `Hinglish`, `expert-annotated`
 - **Size:** 125,613 Instances annotated by three annotators.
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-### 📝 Dataset Tasks and Splits
+### 📋 Dataset Tasks and Splits
 
 | Task               | Train File           | Test File            |
 |--------------------|----------------------|----------------------|
