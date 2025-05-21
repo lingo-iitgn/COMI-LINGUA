@@ -71,11 +71,8 @@ Parallel translations for each sentence into:
 
 ```text
 Sentence: भारत में भी green growth, climate resilient infrastructure और ग्रीन transition पर विशेष रूप से बल दिया जा रहा है।
-
 English: In India too, special emphasis is being given to green growth, climate resilient infrastructure, and green transition.
-
 Romanized Hindi: Bharat mein bhi green growth, climate resilient infrastructure aur green transition par vishesh roop se bal diya ja raha hai.
-
 Devanagari Hindi: भारत में भी हरित विकास, जलवायु सहनशील आधारिक संरचना और हरित संक्रमण पर विशेष रूप से बल दिया जा रहा है।
 ```
 
