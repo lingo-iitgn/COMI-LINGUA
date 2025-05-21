@@ -19,7 +19,7 @@ Token-level classification of each word as `hi`, `en`, or other.
 > Based on [Microsoft LID tool](https://github.com/microsoft/LID-tool), reviewed and corrected by annotators.
 
 ```text
-sentence: प्रधानमंत्री  नरेन्द्र  मोदी  डिजिटल  इंडिया  मिशन  को  आगे  बढ़ाने  के  लिए  पिछले  सप्ताह  Google  के  CEO  सुंदर  पिचाई  से  मुलाकात  की  थी ।
+Sentence: प्रधानमंत्री  नरेन्द्र  मोदी  डिजिटल  इंडिया  मिशन  को  आगे  बढ़ाने  के  लिए  पिछले  सप्ताह  Google  के  CEO  सुंदर  पिचाई  से  मुलाकात  की  थी ।
 LID tags:    hi   hi   hi    en    en    en   hi  hi   hi  hi  hi   hi    hi    en    hi  en   hi   hi   hi   hi   hi  hi ot
 ```
 
@@ -43,7 +43,7 @@ Matrix Language: hi
 Token-wise syntactic tags using the [CodeSwitch library](https://github.com/sagorbrur/codeswitch), then refined by annotators.
 
 ```text
-  sentence:  भारत   द्वारा  बनाया  गया Unified Payments Interface  यानि   UPI    भारत   की    एक   बहुत  बड़ी   success  story  है    ।
+  Sentence:  भारत   द्वारा  बनाया  गया Unified Payments Interface  यानि   UPI    भारत   की    एक   बहुत  बड़ी   success  story  है    ।
   POS tags: PROPN  ADP VERB VERB  PROPN   PROPN    PROPN    CONJ  PROPN  PROPN ADP  DET  ADJ  ADJ    NOUN    NOUN  VERB  X
 ```
 
@@ -70,7 +70,7 @@ Parallel translations for each sentence into:
 > Generated using [Llama 3.3 LLM](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct), then refined manually.
 
 ```text
-Hinglish: भारत में भी green growth, climate resilient infrastructure और ग्रीन transition पर विशेष रूप से बल दिया जा रहा है।
+Sentence: भारत में भी green growth, climate resilient infrastructure और ग्रीन transition पर विशेष रूप से बल दिया जा रहा है।
 
 English: In India too, special emphasis is being given to green growth, climate resilient infrastructure, and green transition.
 
