@@ -31,7 +31,7 @@ Token-level classification of each word as `hi`, `en`, or other.
 
 ```text
 sentence: प्रधानमंत्री  नरेन्द्र  मोदी  डिजिटल  इंडिया  मिशन  को  आगे  बढ़ाने  के  लिए  पिछले  सप्ताह  Google  के  CEO  सुंदर  पिचाई  से  मुलाकात  की  थी ।
-LID tags:    hi  hi   hi    en    en    en   hi  hi   hi  hi  hi   hi    hi    en    hi  en   hi   hi   hi   hi   hi  hi ot
+LID tags:    hi   hi   hi    en    en    en   hi  hi   hi  hi  hi   hi    hi    en    hi  en   hi   hi   hi   hi   hi  hi ot
 ```
 
 ---
