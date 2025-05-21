@@ -60,7 +60,7 @@ NER Tags: "पेरिस" → GPE, "Financial Action Task Force, FATF" → ORG
 
 ---
 
-### 5. Translation
+### 5. Machine Translation (MT)
 
 Parallel translations for each sentence into:
 - **English**
