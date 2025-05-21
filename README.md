@@ -9,7 +9,7 @@
 - **Size:** 125,613 Instances annotated by three annotators.
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-### 🔧 Available Tasks and Files
+### 📝 Dataset Tasks and Splits
 
 | Task               | Train File           | Test File            |
 |--------------------|----------------------|----------------------|
