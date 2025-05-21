@@ -9,17 +9,6 @@
 - **Size:** 125,613 Instances annotated by three annotators.
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-### 📂 Dataset Tasks and Splits
-
-| Task               | Train File           | Test File            |
-|--------------------|----------------------|----------------------|
-| Language ID (LID)  | `LID_train.csv`      | `LID_test.csv`       |
-| POS Tagging (POS)  | `POS_train.csv`      | `POS_test.csv`       |
-| Matrix Language ID (MLI) | `MLI_train.csv` | `MLI_test.csv`       |
-| Named Entity Recognition (NER) | `NER_train.csv` | `NER_test.csv` |
-| Machine Translation (MT)       | `MT_train.csv` | `MT_test.csv` |
-
----
 
 ## 📚 Annotation Tasks
 
