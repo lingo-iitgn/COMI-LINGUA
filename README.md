@@ -30,8 +30,8 @@ Token-level classification of each word as `hi`, `en`, or other.
 > Based on [Microsoft LID tool](https://github.com/microsoft/LID-tool), reviewed and corrected by annotators.
 
 ```text
-Sentence: प्रधानमंत्री नरेन्द्र मोदी डिजिटल इंडिया मिशन को आगे बढ़ाने के लिए पिछले सप्ताह Google के CEO सुंदर पिचाई से मुलाकात की थी ।
-LID Tags: hi hi hi en en en hi hi hi hi hi hi hi en hi en hi hi hi hi hi hi ot
+sentence: प्रधानमंत्री  नरेन्द्र  मोदी  डिजिटल  इंडिया  मिशन  को  आगे  बढ़ाने  के  लिए  पिछले  सप्ताह  Google  के  CEO  सुंदर  पिचाई  से  मुलाकात  की  थी ।
+  LID tags:   hi  hi   hi    en    en    en   hi  hi   hi  hi  hi   hi    hi    en   hi  en   hi   hi   hi   hi   hi  hi ot
 ```
 
 ---
@@ -52,8 +52,8 @@ Matrix Language: en
 Token-wise syntactic tags using the [CodeSwitch library](https://github.com/sagorbrur/codeswitch), then refined by annotators.
 
 ```text
-Sentence: भारत द्वारा बनाया गया Unified Payments Interface यानि UPI भारत की एक बहुत बड़ी success story है ।
-POS Tags: PROPN ADP VERB VERB PROPN PROPN PROPN CONJ PROPN PROPN ADP DET ADJ ADJ NOUN NOUN VERB X
+  sentence:  भारत   द्वारा  बनाया  गया Unified Payments Interface  यानि   UPI    भारत   की    एक   बहुत  बड़ी   success  story  है    ।
+  POS tags: PROPN  ADP VERB VERB  PROPN   PROPN    PROPN    CONJ  PROPN  PROPN ADP  DET  ADJ  ADJ    NOUN    NOUN  VERB  X
 ```
 
 ---
