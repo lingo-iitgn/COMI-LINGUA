@@ -87,7 +87,7 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 ├── MLI_train.csv
 ├── MLI_test.csv
 ├── MT_train.csv
-├──MT_test.csv
+├── MT_test.csv
 ├── NER_train.csv
 ├── NER_test.csv
 ├── POS_train.csv
