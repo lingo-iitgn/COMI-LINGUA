@@ -101,3 +101,18 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 ---
+## Citation
+
+If you use COMMENTATOR in your research or work, please cite it as follows:
+
+```bibtex
+@misc{sheth2025comilinguaexpertannotatedlargescale,
+      title={COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing}, 
+      author={Rajvee Sheth and Himanshu Beniwal and Mayank Singh},
+      year={2025},
+      eprint={2503.21670},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.21670}, 
+}
+```
