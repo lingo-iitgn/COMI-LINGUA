@@ -103,7 +103,7 @@ This dataset is distributed under the **Creative Commons Attribution 4.0 Interna
 ---
 ## Citation
 
-If you use COMMENTATOR in your research or work, please cite it as follows:
+If you use COMI-LINGUA in your research or work, please cite it as follows:
 
 ```bibtex
 @misc{sheth2025comilinguaexpertannotatedlargescale,
