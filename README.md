@@ -3,14 +3,6 @@
 
 ---
 
-## :link: Relevant Links 
-
-Paper Link: [`EMNLP 2025 Paper`](https://arxiv.org/abs/2503.21670)
-
-Explore the Project: [`Project Website`](https://lingo.iitgn.ac.in/codemixing/)
-
----
-
 ## 📝 Dataset Summary
 
 - **Languages:** Hindi (hi), English (en)
@@ -104,7 +96,13 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 ```
 
 ---
+## :link: Relevant Links 
 
+Paper Link: [`EMNLP 2025 Paper`](https://arxiv.org/abs/2503.21670)
+
+Explore the Project: [`Project Website`](https://lingo.iitgn.ac.in/codemixing/)
+
+---
 ## 📄 License
 
 This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
