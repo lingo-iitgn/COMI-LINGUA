@@ -108,9 +108,9 @@ Explore the Project: [`Project Website`](https://lingo.iitgn.ac.in/codemixing/)
 This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 ---
-## Citation
+## ⭐ Citation
 
-If you use COMI-LINGUA in your research or work, please cite it as follows:
+If you find COMI-LINGUA helpful for your research, please cite it below:
 
 ```bibtex
 @misc{sheth2025comilinguaexpertannotatedlargescale,
