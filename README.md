@@ -1,5 +1,11 @@
 **COMI-LINGUA** (**CO**de-**MI**xing and **LING**uistic Insights on Natural Hinglish **U**sage and **A**nnotation) is a large-scale, expert-annotated dataset for Hindi-English code-mixed text. It supports multiple foundational NLP tasks and is designed to benchmark code-mixed and multilingual models.
 
+<div align="center">
+  <p>
+    <a href="https://aclanthology.org/2025.findings-emnlp.422/"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025-brightgreen"></a>
+    <a href="https://github.com/lingo-iitgn/COMI-LINGUA/blob/main/LICENSE.txt"><img alt="License" src="https://img.shields.io/badge/License-CC-BY-SA-4.0-blue"></a>
+  </p>
+</div>
 
 ---
 
