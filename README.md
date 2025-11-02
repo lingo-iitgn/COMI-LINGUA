@@ -98,7 +98,7 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 ---
 ## :link: Relevant Links 
 
-Paper Link: [`EMNLP 2025 Paper`](https://arxiv.org/abs/2503.21670)
+Paper Link: [`EMNLP 2025 Paper`](https://aclanthology.org/2025.findings-emnlp.422/)
 
 Explore the Project: [`Project Website`](https://lingo.iitgn.ac.in/codemixing/)
 
