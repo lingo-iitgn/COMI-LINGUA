@@ -3,11 +3,9 @@
 <div align="center">
   <p>
     <a href="https://aclanthology.org/2025.findings-emnlp.422/"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025-brightgreen"></a>
-    <a href="https://github.com/lingo-iitgn/COMI-LINGUA/blob/main/LICENSE.txt"><img alt="License" src="https://img.shields.io/badge/License-CC-BY-SA-4.0-blue"></a>
+    <a href="https://github.com/lingo-iitgn/commentator/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-CC BY SA 4.0-blue"></a>
   </p>
 </div>
-
----
 
 ## 📝 Dataset Summary
 
