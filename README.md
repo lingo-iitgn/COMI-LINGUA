@@ -112,13 +112,22 @@ This dataset is distributed under the **Creative Commons Attribution 4.0 Interna
 If you find COMI-LINGUA helpful for your research, please cite it below:
 
 ```bibtex
-@misc{sheth2025comilinguaexpertannotatedlargescale,
-      title={COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing}, 
-      author={Rajvee Sheth and Himanshu Beniwal and Mayank Singh},
-      year={2025},
-      eprint={2503.21670},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.21670}, 
+@inproceedings{sheth-etal-2025-comi,
+    title = "{COMI}-{LINGUA}: Expert Annotated Large-Scale Dataset for Multitask {NLP} in {H}indi-{E}nglish Code-Mixing",
+    author = "Sheth, Rajvee  and
+      Beniwal, Himanshu  and
+      Singh, Mayank",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.422/",
+    pages = "7973--7992",
+    ISBN = "979-8-89176-335-7",
 }
 ```
