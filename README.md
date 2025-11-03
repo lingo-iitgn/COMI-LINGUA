@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://aclanthology.org/2025.findings-emnlp.422/"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025-brightgreen"></a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.422.pdf"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025-brightgreen"></a>
     <a href="https://github.com/lingo-iitgn/commentator/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-CC BY SA 4.0-blue"></a>
   </p>
 </div>
@@ -102,7 +102,7 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 ---
 ## :link: Relevant Links 
 
-Paper Link: [`EMNLP 2025 Paper`](https://aclanthology.org/2025.findings-emnlp.422/)
+Paper Link: [`EMNLP 2025 Paper`](https://aclanthology.org/2025.findings-emnlp.422.pdf)
 
 Explore the Project: [`Project Website`](https://lingo.iitgn.ac.in/codemixing/)
 
