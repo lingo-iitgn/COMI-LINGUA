@@ -96,8 +96,8 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 ├── NER_train.csv
 ├── NER_test.csv
 ├── POS_train.csv
-└── POS_test.csv
-└── SCN_train.csv
+├── POS_test.csv
+├── SCN_train.csv
 └── SCN_test.csv
 ```
 
