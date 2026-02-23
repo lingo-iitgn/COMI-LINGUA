@@ -83,6 +83,20 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 
 ---
 
+### 6. Spelling Correction and Normalization (SCN)
+
+Standardized normalization for each sentence into:
+- **Normalized From**
+
+> Generated using [GPT-OSS-120B](https://huggingface.co/openai/gpt-oss-120b), then refined manually.
+
+```text
+Sentence: Janmdin ki dheron shubhkaamnaayen sir... Aap swasth rahen... Dirghayu ho... Yahi hamare poore pariwaar ki shubhkaamnaayen hain  
+Normalized: Janmadin ki dheron shubhkaamnayein sir. Aap swasth rahe. Dirghayu ho, yahi hamare pure parivaar ki shubhkaamnayein hain.
+```
+
+---
+
 ## 📂 Repository Structure
 
 ```
