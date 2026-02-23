@@ -85,8 +85,7 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 
 ### 6. Spelling Correction and Normalization (SCN)
 
-Standardized normalization for each sentence into:
-- **Normalized From**
+Sentence-level normalization of noisy Hindi-English code-mixed text. 
 
 > Generated using [GPT-OSS-120B](https://huggingface.co/openai/gpt-oss-120b), then refined manually.
 
