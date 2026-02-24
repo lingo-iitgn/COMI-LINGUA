@@ -83,7 +83,7 @@ Devanagari Hindi: भारत में भी हरित विकास, �
 
 ---
 
-### 6. Spelling Correction and Normalization (SCN)
+### 6. Text Normalization (TN)
 
 Sentence-level normalization of noisy Hindi-English code-mixed text. 
 
@@ -110,8 +110,8 @@ Normalized: Janmadin ki dheron shubhkaamnayein sir. Aap swasth rahe. Dirghayu ho
 ├── NER_test.csv
 ├── POS_train.csv
 ├── POS_test.csv
-├── SCN_train.csv
-└── SCN_test.csv
+├── TN_train.csv
+└── TN_test.csv
 ```
 
 ---
