@@ -150,3 +150,5 @@ If you find COMI-LINGUA helpful for your research, please cite it below:
     ISBN = "979-8-89176-335-7",
 }
 ```
+## Contributors
+- Mahesh Kumar – Data curation and annotation support for Hindi-English code-mixing dataset.
